@@ -47,3 +47,7 @@ flutter run
 ```
 
 Run on a real Android device to test the VPN connection.
+
+## License
+
+Released under the [MIT License](LICENSE).
